@@ -66,10 +66,7 @@ RESPUESTA: Respuestas incorrectas, la opción correcta sería la A modificandola
 ===================================================================================================
 #18. Usted tiene una IP 156.233.42.56 con una máscara de subred de 7 bits.
 ¿Cuántos host y cuantas subredes son posibles?
-a.126 subredes y 510 hosts
-b. 128 subredes y 512 hosts
-c. 510 hosts y 126 subredes
-d. 512 hosts y 128 subredes
+RESPUESTA: Respuestas incorrectas, la opción correcta una union entre la A y B modificandola para que este asi: 128 subredes con 510 hosts.
 ===================================================================================================
 #20. Una red clase B será dividida en subredes. ¿Qué máscara se deberá utilizar
 para obtener un total de 500 host por subred?
