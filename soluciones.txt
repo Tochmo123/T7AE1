@@ -51,13 +51,10 @@ RESPUESTA: b. 255.255.252.0
 #14. Una red clase B será dividida en 20 subredes a las que se sumaran 4 más en
 los próximos años ¿Qué máscara se deberá utilizar para obtener un total de 2000
 host por subred?
-b. /21
+RESPUESTA: b. /21
 ===================================================================================================
 #15. Cuáles de las siguientes máscaras de red equivale a: /24
-a. 255.0.0.0
-b. 224.0.0.0
-c. 255.255.0.0
-d. 255.255.255.0
+RESPUESTA: d. 255.255.255.0
 ===================================================================================================
 #16. A partir de la dirección IP 192.168.85.129 /26 , ¿Cuál es la dirección de
 subred y de broadcast a la que pertenece el host?
