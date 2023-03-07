@@ -28,15 +28,11 @@ e. 10011111.01001011.00111111.00101011
 ===================================================================================================
 #8. Se tiene una dirección IP 172.17.111.0 máscara 255.255.254.0, ¿cuantas
 subredes y cuantos host validos habrá por subred?
-b. 128 subredes con 510 hosts
+RESPUESTA: b. 128 subredes con 510 hosts
 ===================================================================================================
 #8-2. Se tiene una dirección IP 192.100.100.128 máscara 255.255.255.254,
 ¿cuántas subredes y cuantos host validos habrá por subred?
-a. 126 subredes con 512 hosts
-b. 128 subredes con 510 hosts
-c. 126 subredes con 510 hosts
-d. 126 subredes con 1022 hosts
-e. Ninguna de las respuestas es correcta.
+RESPUESTA: e. Ninguna de las respuestas es correcta.
 ===================================================================================================
 #10. Usted está designando un direccionamiento IP para cuatro subredes con la red
 10.1.1.0, se prevé un crecimiento de una red por año en los próximos cuatro años.
