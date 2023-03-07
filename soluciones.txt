@@ -70,7 +70,4 @@ RESPUESTA: Respuestas incorrectas, la opción correcta una union entre la A y B 
 ===================================================================================================
 #20. Una red clase B será dividida en subredes. ¿Qué máscara se deberá utilizar
 para obtener un total de 500 host por subred?
-a. 255.255.224.0
-b. 255.255.248.0
-c. 255.255.128.0
 d. 255.255.254.0
