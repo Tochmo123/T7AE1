@@ -14,13 +14,7 @@ C. 255.255.255.240
 ===================================================================================================
 #3 . Una red está dividida en 8 subredes de una clase B. ¿Qué máscara de subred
 se deberá utilizar si se pretende tener 2500 host por subred?
-A.255.248.0.0
 B.255.255.240.0
-C.255.255.248.0
-D.255.255.255.255
-E.255.255.224.0
-F.255.255.252.0
-G.172.16.252.0
 ===================================================================================================
 #5. ¿Cuáles de las siguientes subredes no pertenece a la misma red si se ha
 utilizado la máscara de subred 255.255.224.0?
